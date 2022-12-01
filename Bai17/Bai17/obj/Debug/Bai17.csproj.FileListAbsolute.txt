@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\emiu\Practice\Bai17\Bai17\bin\Debug\Bai17.exe.config
+C:\Users\Admin\Desktop\emiu\Practice\Bai17\Bai17\bin\Debug\Bai17.exe
+C:\Users\Admin\Desktop\emiu\Practice\Bai17\Bai17\bin\Debug\Bai17.pdb
+C:\Users\Admin\Desktop\emiu\Practice\Bai17\Bai17\obj\Debug\Bai17.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\emiu\Practice\Bai17\Bai17\obj\Debug\Bai17.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\emiu\Practice\Bai17\Bai17\obj\Debug\Bai17.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\emiu\Practice\Bai17\Bai17\obj\Debug\Bai17.exe
+C:\Users\Admin\Desktop\emiu\Practice\Bai17\Bai17\obj\Debug\Bai17.pdb
