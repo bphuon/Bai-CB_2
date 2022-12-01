@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\Practice\BaiCB7\BaiCB7\bin\Debug\BaiCB7.exe.config
+C:\Users\Admin\Desktop\Practice\BaiCB7\BaiCB7\bin\Debug\BaiCB7.exe
+C:\Users\Admin\Desktop\Practice\BaiCB7\BaiCB7\bin\Debug\BaiCB7.pdb
+C:\Users\Admin\Desktop\Practice\BaiCB7\BaiCB7\obj\Debug\BaiCB7.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Practice\BaiCB7\BaiCB7\obj\Debug\BaiCB7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Practice\BaiCB7\BaiCB7\obj\Debug\BaiCB7.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Practice\BaiCB7\BaiCB7\obj\Debug\BaiCB7.exe
+C:\Users\Admin\Desktop\Practice\BaiCB7\BaiCB7\obj\Debug\BaiCB7.pdb

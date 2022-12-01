@@ -1,0 +1,3 @@
+C:\Users\Admin\Desktop\Practice\BaiCB8\BaiCB8\obj\Debug\BaiCB8.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Practice\BaiCB8\BaiCB8\obj\Debug\BaiCB8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Practice\BaiCB8\BaiCB8\obj\Debug\BaiCB8.csproj.CoreCompileInputs.cache
