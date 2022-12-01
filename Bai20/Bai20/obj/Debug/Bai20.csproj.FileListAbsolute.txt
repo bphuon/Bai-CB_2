@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\emiu\Practice\Bai20\Bai20\bin\Debug\Bai20.exe.config
+C:\Users\Admin\Desktop\emiu\Practice\Bai20\Bai20\bin\Debug\Bai20.exe
+C:\Users\Admin\Desktop\emiu\Practice\Bai20\Bai20\bin\Debug\Bai20.pdb
+C:\Users\Admin\Desktop\emiu\Practice\Bai20\Bai20\obj\Debug\Bai20.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\emiu\Practice\Bai20\Bai20\obj\Debug\Bai20.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\emiu\Practice\Bai20\Bai20\obj\Debug\Bai20.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\emiu\Practice\Bai20\Bai20\obj\Debug\Bai20.exe
+C:\Users\Admin\Desktop\emiu\Practice\Bai20\Bai20\obj\Debug\Bai20.pdb
